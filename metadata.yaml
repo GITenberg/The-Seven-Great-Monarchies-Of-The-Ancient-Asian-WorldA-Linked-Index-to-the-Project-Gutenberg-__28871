@@ -1,0 +1,39 @@
+_repo: The-Seven-Great-Monarchies-Of-The-Ancient-Asian-WorldA-Linked-Index-to-the-Project-Gutenberg-__28871
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rawlinson, George
+    birthdate: 1812
+    deathdate: 1902
+    gutenberg_agent_id: '872'
+    url: http://www.gutenberg.org/2009/agents/872
+    wikipedia: http://en.wikipedia.org/wiki/George_Rawlinson
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2009-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28871'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'History, Ancient'
+- !lcsh 'Parthia -- History'
+- !lcsh 'Babylonia -- History'
+- !lcc 'D'
+- !lcsh 'Assyria -- History'
+- !lcsh 'Indexes'
+- !lcsh 'Iran -- History'
+title: 'The Seven Great Monarchies Of The Ancient Asian World
+
+  A Linked Index to the Project Gutenberg Editions'
+url: http://www.gutenberg.org/ebooks/28871
